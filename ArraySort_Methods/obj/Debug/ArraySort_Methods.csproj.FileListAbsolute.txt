@@ -1,0 +1,10 @@
+C:\Users\vasyl\source\repos\ArraySort_Methods\ArraySort_Methods\bin\Debug\ArraySort_Methods.exe.config
+C:\Users\vasyl\source\repos\ArraySort_Methods\ArraySort_Methods\bin\Debug\ArraySort_Methods.exe
+C:\Users\vasyl\source\repos\ArraySort_Methods\ArraySort_Methods\bin\Debug\ArraySort_Methods.pdb
+C:\Users\vasyl\source\repos\ArraySort_Methods\ArraySort_Methods\obj\Debug\ArraySort_Methods.csprojResolveAssemblyReference.cache
+C:\Users\vasyl\source\repos\ArraySort_Methods\ArraySort_Methods\obj\Debug\ArraySort_Methods.Form1.resources
+C:\Users\vasyl\source\repos\ArraySort_Methods\ArraySort_Methods\obj\Debug\ArraySort_Methods.Properties.Resources.resources
+C:\Users\vasyl\source\repos\ArraySort_Methods\ArraySort_Methods\obj\Debug\ArraySort_Methods.csproj.GenerateResource.cache
+C:\Users\vasyl\source\repos\ArraySort_Methods\ArraySort_Methods\obj\Debug\ArraySort_Methods.csproj.CoreCompileInputs.cache
+C:\Users\vasyl\source\repos\ArraySort_Methods\ArraySort_Methods\obj\Debug\ArraySort_Methods.exe
+C:\Users\vasyl\source\repos\ArraySort_Methods\ArraySort_Methods\obj\Debug\ArraySort_Methods.pdb
